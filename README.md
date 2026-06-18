@@ -1,4 +1,4 @@
-# Bloom Quiz Research Platform (v2)
+# Bloom Quiz Research Platform (v2):
 
 End-to-end project for generating and evaluating Bloom's Taxonomy MCQs using multiple LLM providers (Groq, Gemini, Ollama, OpenRouter), with analytics, history, and optional Google Drive export.
 
